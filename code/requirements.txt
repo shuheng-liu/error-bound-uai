@@ -1,0 +1,6 @@
+neurodiffeq
+torch
+numpy
+matplotlib
+scipy
+seaborn
